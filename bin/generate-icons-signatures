@@ -12,7 +12,7 @@ function dashesToCamelCase($string, $capitalizeFirstCharacter = false)
     return $str;
 }
 
-$iconPath="view/frontend/web/svg/bootstrap";
+$iconPath = "view/frontend/web/svg/bootstrap";
 $dir = dirname(__DIR__, 1) . "/" . $iconPath;
 $icons = array_diff(scandir($dir), array('..', '.'));
 $outputPath = dirname(__DIR__, 1) . "/bin/interface-icons.txt";
@@ -24,7 +24,9 @@ file_put_contents($outputPath, "");
 foreach ($icons as &$icon) {
     $icon = str_replace('.svg', '', $icon);
 
-    $string = " * @method string " . dashesToCamelCase($icon) . "Html(string \$classnames = '', ?int \$width = 24, ?int \$height = 24, array \$attributes = [])";
+    $string = " * @method string "
+        . dashesToCamelCase($icon)
+        . "Html(string \$classnames = '', ?int \$width = 24, ?int \$height = 24, array \$attributes = [])";
 
     file_put_contents($outputPath, $string . "\n", FILE_APPEND);
 }
