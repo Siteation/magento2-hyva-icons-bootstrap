@@ -60,3 +60,7 @@ Bringing svg icon support to you CMS pages, Blocks and Widgets.
 [For more information on how and what see the Hyva Docs](https://docs.hyva.io/hyva-themes/writing-code/working-with-view-models/svgicons.html#using-svg-icons-in-cms-content)
 
 > This feature is supported since Hyva v1.1.12
+
+## Icon License
+
+[Bootstrap Icons](https://github.com/colebemis/feather) used in this module were created by [The Bootstrap Authors](https://github.com/feathericons) under a [MIT License, found here](https://github.com/twbs/icons/blob/main/LICENSE.md)
