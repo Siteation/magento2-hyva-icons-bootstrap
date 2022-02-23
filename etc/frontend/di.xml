@@ -10,7 +10,7 @@
     <type name="Hyva\Theme\ViewModel\SvgIcons">
         <arguments>
             <argument name="pathPrefixMapping" xsi:type="array">
-                <item name="Bootstrap" xsi:type="string">Siteation_HyvaIconsBootstrap::svg/bootstrap</item>
+                <item name="bootstrap" xsi:type="string">Siteation_HyvaIconsBootstrap::svg/bootstrap</item>
             </argument>
         </arguments>
     </type>
