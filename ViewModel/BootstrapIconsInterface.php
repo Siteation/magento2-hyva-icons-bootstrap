@@ -11,7 +11,7 @@ namespace Siteation\HyvaIconsBootstrap\ViewModel;
 // phpcs:disable Generic.Files.LineLength.TooLong
 
 /**
- * These method signatures were generated with dev/generate-icon-signatures
+ * These method signatures were generated with bin/generate-icon-signatures
  *
  * @method string 123Html(string $classnames = '', ?int $width = 24, ?int $height = 24, array $attributes = [])
  * @method string activityHtml(string $classnames = '', ?int $width = 24, ?int $height = 24, array $attributes = [])
