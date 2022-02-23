@@ -10,6 +10,8 @@ namespace Siteation\HyvaIconsBootstrap\ViewModel;
 // phpcs:disable Magento2.NamingConvention.InterfaceName.WrongInterfaceName
 // phpcs:disable Generic.Files.LineLength.TooLong
 
+// Icon version: v1.8.1
+
 /**
  * These method signatures were generated with bin/generate-icon-signatures
  *
