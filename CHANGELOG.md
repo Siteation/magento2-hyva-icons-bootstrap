@@ -6,5 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+Update Bootstrap icons to v1.9.1
+
 ## [1.0.0] - 2021-11-24
 Initial release 🎉
