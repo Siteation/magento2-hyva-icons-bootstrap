@@ -21,6 +21,6 @@
     "build": "npm run build:icons && npm run build:signature"
   },
   "dependencies": {
-    "bootstrap-icons": "^1.9.1"
+    "bootstrap-icons": "^1.10.5"
   }
 }
