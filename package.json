@@ -1,6 +1,6 @@
 {
   "name": "@sitation/magento2-hyva-icons-bootstrap",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "the npm pkg is here just here to update the Bootstrap icons for Hyvä",
   "homepage": "https://siteation.dev",
   "author": {
@@ -21,6 +21,6 @@
     "build": "npm run build:icons && npm run build:signature"
   },
   "dependencies": {
-    "bootstrap-icons": "^1.10.5"
+    "bootstrap-icons": "^1.11.2"
   }
 }
