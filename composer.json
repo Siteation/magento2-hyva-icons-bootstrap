@@ -1,6 +1,6 @@
 {
     "name": "siteation/magento2-hyva-icons-bootstrap",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": "MIT",
     "type": "magento2-module",
     "description": "Bootstrap icons for Hyva Themes",
