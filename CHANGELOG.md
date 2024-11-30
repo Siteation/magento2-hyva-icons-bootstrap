@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- Moved `SvgIcons` argument from global scope to frontend and adminthtml scope
+
 ## [1.0.4] - 2023-11-26
 ### Changed
 Update Bootstrap icons to v1.11.2
